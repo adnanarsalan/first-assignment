@@ -3,4 +3,4 @@ body{}
 section{display:flex}
 .first{color:gold}
 .child-one{width:50%}
-.child-one img{width:100%;height:100%}
+.child-one img{width:100%;height:100%;clip-path: circle();}
